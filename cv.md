@@ -1,5 +1,5 @@
 ![avatar](https://github.com/SafonovaEkaterina/resume/blob/main/imgs/imgonline-com-ua-Resize-dpeL8llun291jO.jpg "")
-# Safonova Ekaterina
+# SAFONOVA EKATERINA
 ## Contacts
 * **Location:** Russia, Nizhny Novgorod
 * **Phone:** +7-951-915-48-35

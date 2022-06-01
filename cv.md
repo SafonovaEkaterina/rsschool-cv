@@ -1,3 +1,4 @@
+![avatar](https://github.com/SafonovaEkaterina/resume/blob/main/imgs/imgonline-com-ua-Resize-dpeL8llun291jO.jpg "")
 # Safonova Ekaterina
 ## Contacts
 * **Location:** Russia, Nizhny Novgorod

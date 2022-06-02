@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="resume, cv, safonova ekaterina, html skills, css skills, layout, about yourself">
+    <meta name="discription" content="Этот сайт представляет собой резюме Сафоновой Екатерины Игоревны"> 
+    <link rel="stylesheet" href="styles.css">
+    <title>Resume Safonova Ekaterina</title>
+</head>
+<body>
+    <div class="container">
+        <div class="info">
+            <img src="imgs/photo.jpg" alt="Здесь лежит мое фото" width="200">
+            <div class="info-text">
+                <h1>Сафонова Екатерина</h1>
+                <p>Обучаюсь <strong>web-разработке</strong>, желаю осовоить новую профессию.</p>
+                <p>Люблю <em>путешествовать, готовить и создавать</em> новое своими руками.</p>
+
+                <h4>Список социальных сетей:</h4>
+                <a href="https://t.me/kukushakat" target="_blanck">Telegram</a>
+                |
+                <a href="https://vk.com/id428051134" target="_blanck">Vkontakte</a>
+                |
+                <a href="https://instagram.com/safonova_ekaterinaa" target="_blanck">Insagram</a>
+            </div>
+        </div>
+        <div class="cardhobby">
+            <h4>Мое хобби:</h4>
+                <ul class="list">
+                    <li>Кулинария</li>
+                    <li>Путешествия</li>
+                    <li>Hand-made</li>
+                    <li>Психология</li>
+                </ul>
+        </div>
+        <div class="cardjob">
+            <h4>Опыт работы:</h4>
+            <table class="table">
+                <!-- <thead>
+                    <tr>
+                        <th>Название организации</th>
+                        <th>Должность</th>
+                        <th>Год</th>
+                    </tr>
+                </thead> -->
+                <tbody>
+                    <tr>
+                        <td>ОАО "Вымпелком"</td>
+                        <td>Специалист по сопровождению</td>
+                        <td>2013</td>
+                    </tr>
+                    <tr>
+                        <td>ООО "Союзконтакт"</td>
+                        <td>Специалист по маркетингу</td>
+                        <td>2016</td>
+                    </tr>
+                    <tr>
+                        <td>ООО "Эффективное решение"</td>
+                        <td>Финансовый менеджер</td>
+                        <td>2017</td>
+                    </tr>
+                    <tr>
+                        <td>ООО "ЛИКАРД"</td>
+                        <td>Специалист по сопровождению</td>
+                        <td>2020</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    <div class="cardcontact">
+        
+        <form class="form">
+            <h4>Связаться со мной:</h4>
+            <div class="form-row">
+                    <div class="form-group">
+                    <label for="name">Ваше имя:</label>
+                    <input type="text" id="name" placeholder="Введите Ваше имя"> 
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">Ваш email:</label>
+                    <input type="email" id="email" placeholder="Введите Ваш email"> 
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="message">Сообщение:</label>
+                <textarea id="message" cols="25" rows="5" placeholder="Введите сообщение..."></textarea>
+            </div>
+            
+            <button class="btn" type="submit">Отправить</button>
+    </div>
+</div>
+</form>
+</body>
+</html>
